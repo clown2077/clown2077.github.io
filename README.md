@@ -12,7 +12,7 @@
   <img src="https://i.kym-cdn.com/entries/icons/mobile/000/028/526/honklhonk.jpg" alt="pepe" style="width:100%">
   <h1>Tạ Quang Trung</h1>
   <P class="title">ACADEMY OF CRYPTOGRAPHY TECHNIQUES<br/>(KMP)</p>
-  <div style="margin: 24px 0px 5px;">  
+  <div style="margin: 24px 0;">  
     <a href="https://clown2077.github.io/blog/"><i class="fa fa-github"></i></a>
   </div>
   <p><a href="https://www.facebook.com/pepelesor"><button>CONTACT</button></a></p>
