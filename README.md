@@ -1,5 +1,8 @@
-<link rel="stylesheet" type="text/css" href="default.css">
+<!DOCTYPE html>
 <html>
+<head>
+ <link rel="stylesheet" type="text/css" href="default.css">
+</head>
 <body class="div">
 <!--
 <h2 style="text-align:center">Profile Card</h2>
