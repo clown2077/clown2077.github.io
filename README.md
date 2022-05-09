@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="default.css">
 <html>
 <body class="div">
 <!--
