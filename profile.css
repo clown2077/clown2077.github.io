@@ -1,9 +1,10 @@
 .div {
-	hieght: 100vh;
+  hieght: 100vh;
   background: linear-gradient(to bottom right, #0099ff 0%, #66ff99 64%);
   display: flex
 }
 .card {
+  background: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
   margin: auto;
