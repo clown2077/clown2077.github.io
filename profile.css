@@ -1,12 +1,10 @@
 .div {
   width: 100%;
   eight: 100%;
+  margin: 25% 0%;
   background: linear-gradient(to bottom right, #0033cc 0%, #99ff99 68%);
 }
 .card {
-  width: 100%;
-  height: 50%;
-  margin: 25% 15% 25% 15%;
   text-align: center;
   font-family: times new roman;
 }
