@@ -1,18 +1,1 @@
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="profile.css">
-</head>
-<body class="div">
-<div class="card">
-  <img src="https://i.kym-cdn.com/entries/icons/mobile/000/028/526/honklhonk.jpg" alt="PEPE" style="width:100%">
-  <h1>Tạ Quang Trung</h1>
-  <p class="title">ACADEMY OF CRYPTOGRAPHY TECHNIQUES<br/>(KMP)</p>
-  <div style="margin: 24px 0;">
-    <a href="https://clown2077.github.io/blog/"><i class="fa fa-github"></i></a>
-  </div>
-  <p><a href="https://www.facebook.com/pepelesor"><button>Contact</button></a></p>
-</div>
-</body>
-</html>
+hello
