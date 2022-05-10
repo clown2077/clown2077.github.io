@@ -1,6 +1,7 @@
 .div {
-	height: 100%;
-    background: linear-gradient(to bottom right, #0033cc 0%, #99ff99 68%);
+  width: 100%;
+  eight: 100%;
+  background: linear-gradient(to bottom right, #0033cc 0%, #99ff99 68%);
 }
 .card {
   width: 100%;
